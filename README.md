@@ -1,5 +1,3 @@
-# Xrpeasylanding2
-XRPeasy UVDM landing page 
 <!DOCTYPE html>
 <html lang="en">
 <head>
